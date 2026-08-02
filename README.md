@@ -19,9 +19,11 @@
 
 ### Hola
 
-Me gusta diseñar hardware, programar microcontroladores y armar cosas que funcionen en el mundo real: PCBs, PLCs, HMI, IoT y un poco de robótica con ROS 2.
+Diseño hardware y firmware para sistemas embebidos que tienen que operar en campo, no solo en el banco de pruebas.
 
-Si ves algo interesante en mis repos, puedes abrirlo, forkealo o escribirme.
+Armo la arquitectura del sistema, elijo componentes, diseño el PCB, programo el microcontrolador y valido el equipo en operación real. Me interesa que el circuito aguante uso continuo y condiciones difíciles.
+
+Trabajo con STM32 y arquitecturas ARM, PCBs multicapa en Altium Designer y KiCad, conectividad IoT (LTE, satelital, telemetría) y, cuando el proyecto lo pide, ROS 2 o Linux embebido.
 
 ---
 
@@ -31,12 +33,16 @@ Si ves algo interesante en mis repos, puedes abrirlo, forkealo o escribirme.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
   <br />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/Altium-A09F9D?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <br />
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/PCB%20Design-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="PCB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/LTE%20%2F%20IoT-0D1117?style=for-the-badge&logo=ericsson&logoColor=white" alt="IoT" />
 </p>
 
 ---
