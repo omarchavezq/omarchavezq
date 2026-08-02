@@ -5,27 +5,27 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Omar+Chavez;Electr%C3%B3nica+%26+sistemas+embebidos;STM32+%C2%B7+ESP32+%C2%B7+PLC+%C2%B7+PCB" alt="Omar Chavez" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Omar+Chavez;Electr%C3%B3nica+%26+sistemas+embebidos;STM32+%C2%B7+ESP32+%C2%B7+PLC+%C2%B7+PCB" alt="Omar Chavez" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/Per%C3%BA-Electronics-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Perú" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-161B22?style=for-the-badge&logo=embedded&logoColor=white" alt="Embedded" />
-  <img src="https://img.shields.io/badge/Industrial-Control-21262D?style=for-the-badge&logo=siemens&logoColor=white" alt="Industrial" />
+  <img src="https://img.shields.io/badge/Per%C3%BA-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Perú" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-161B22?style=for-the-badge&logoColor=white" alt="Embedded" />
+  <img src="https://img.shields.io/badge/Open%20Source-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 
 </div>
 
 ---
 
-### Sobre mí
+### Hola
 
-Ingeniero enfocado en electrónica, control industrial y sistemas embebidos. Diseño PCBs, programo microcontroladores y armo soluciones que conectan hardware con software en planta.
+Me gusta diseñar hardware, programar microcontroladores y armar cosas que funcionen en el mundo real: PCBs, PLCs, HMI, IoT y un poco de robótica con ROS 2.
 
-Trabajo en proyectos reales: PLCs basados en STM32, interfaces HMI (Nextion), control de VFD, IoT con ESP32/ESP8266 y automatización con ROS 2.
+Si ves algo interesante en mis repos, puedes abrirlo, forkealo o escribirme.
 
 ---
 
-### Stack
+### Con qué trabajo
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -38,19 +38,18 @@ Trabajo en proyectos reales: PLCs basados en STM32, interfaces HMI (Nextion), co
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/PCB%20Design-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="PCB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-### Proyectos destacados
+### Algunos proyectos
 
-| Proyecto | Qué hace |
+| Repo | Idea |
 | --- | --- |
-| [**plc-stm32**](https://github.com/omarchavezq/plc-stm32) | PLC básico con STM32, RS485, WiFi (ESP32) y Ethernet (W5500) |
-| [**ros2-jazzy-install-script**](https://github.com/omarchavezq/ros2-jazzy-install-script) | Instalador automático de ROS 2 Jazzy para Ubuntu |
-| [**VDF_CONTROL_NEXTION**](https://github.com/omarchavezq/VDF_CONTROL_NEXTION) | Control de variador de frecuencia con HMI Nextion |
-| [**ESP8266_DEEPSLEEP**](https://github.com/omarchavezq/ESP8266_DEEPSLEEP) | Deep sleep + WiFi Manager para nodos IoT de bajo consumo |
+| [**plc-stm32**](https://github.com/omarchavezq/plc-stm32) | PLC con STM32, RS485, WiFi (ESP32) y Ethernet (W5500) |
+| [**ros2-jazzy-install-script**](https://github.com/omarchavezq/ros2-jazzy-install-script) | Script para instalar ROS 2 Jazzy en Ubuntu |
+| [**VDF_CONTROL_NEXTION**](https://github.com/omarchavezq/VDF_CONTROL_NEXTION) | Control de variador con pantalla Nextion |
+| [**ESP8266_DEEPSLEEP**](https://github.com/omarchavezq/ESP8266_DEEPSLEEP) | Deep sleep + WiFi Manager para nodos de bajo consumo |
 | [**PCB_CONTROL_DSP_by_ArrSoft**](https://github.com/omarchavezq/PCB_CONTROL_DSP_by_ArrSoft) | Diseño de PCB para control DSP |
 
 ---
@@ -70,13 +69,8 @@ Trabajo en proyectos reales: PLCs basados en STM32, interfaces HMI (Nextion), co
 
 ---
 
-### Contacto
-
 <p align="center">
   <a href="https://github.com/omarchavezq"><img src="https://img.shields.io/badge/GitHub-omarchavezq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Agrega tu LinkedIn / web cuando quieras:
-  <a href="https://www.linkedin.com/in/TU_PERFIL"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Chavez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
 </p>
 
 <p align="center">
