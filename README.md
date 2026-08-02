@@ -5,8 +5,6 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Omar+Chavez;Electr%C3%B3nica+%26+sistemas+embebidos;STM32+%C2%B7+ESP32+%C2%B7+PLC+%C2%B7+PCB" alt="Omar Chavez" />
-
   <br />
 
   <img src="https://img.shields.io/badge/Per%C3%BA-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Perú" />
@@ -17,7 +15,11 @@
 
 ---
 
-### Hola 😼☕
+### 👋 Hola, soy Omar
+
+Disfruto diseñar sistemas embebidos, desde la primera idea hasta un hardware funcionando.
+
+En este perfil encontrarás proyectos relacionados con firmware, diseño de PCB, Linux embebido e IoT. La mayoría de mis desarrollos están basados en STM32, aunque también experimento con nuevas plataformas y tecnologías cuando el proyecto lo requiere.
 
 ---
 
