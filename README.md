@@ -17,13 +17,7 @@
 
 ---
 
-### Hola
-
-Diseño hardware y firmware para sistemas embebidos que tienen que operar en campo, no solo en el banco de pruebas.
-
-Armo la arquitectura del sistema, elijo componentes, diseño el PCB, programo el microcontrolador y valido el equipo en operación real. Me interesa que el circuito aguante uso continuo y condiciones difíciles.
-
-Trabajo con STM32 y arquitecturas ARM, PCBs multicapa en Altium Designer y KiCad, conectividad IoT (LTE, satelital, telemetría) y, cuando el proyecto lo pide, ROS 2 o Linux embebido.
+### Hola 😼☕
 
 ---
 
